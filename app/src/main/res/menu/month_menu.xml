@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/revert_month"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="@string/revert_month"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/kartik"
+        android:title="@string/kartik" />
+    <item
+        android:id="@+id/mangsir"
+        android:title="@string/mangsir" />
+    <item
+        android:id="@+id/poush"
+        android:title="@string/poush" />
+    <item
+        android:id="@+id/magh"
+        android:title="@string/magh" />
+    <item
+        android:id="@+id/falgun"
+        android:title="@string/falgun" />
+    <item
+        android:id="@+id/chaitra"
+        android:title="@string/chaitra" />
+</menu>

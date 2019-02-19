@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_cnas"
+        android:title="@string/action_cnas" />
+    <item
+        android:id="@+id/action_dsap"
+        android:title="@string/action_dsap" />
+    <item
+        android:id="@+id/action_ds"
+        android:title="@string/action_ds" />
+    <item
+        android:id="@+id/action_pm"
+        android:title="@string/action_pm" />
+    <item
+        android:id="@+id/action_oam"
+        android:title="@string/action_oam" />
+    <item
+        android:id="@+id/action_eeas"
+        android:title="@string/action_eeas" />
+    <item
+        android:id="@+id/action_elective"
+        android:title="@string/elective" />
+</menu>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/prev"
+        android:icon="@android:drawable/ic_media_previous"
+        android:title="@string/action_prev"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/today"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="@string/action_today"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/next"
+        android:icon="@android:drawable/ic_media_next"
+        android:title="@string/action_next"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_calendar"
+        android:title="@string/academic_calender" />
+    <item
+        android:id="@+id/action_syllabus"
+        android:title="Syllabus" />
+    <item
+        android:id="@+id/action_resources"
+        android:title="@string/action_resources" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_notice"
+        android:title="Notices" />
+</menu>
