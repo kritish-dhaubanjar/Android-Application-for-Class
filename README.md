@@ -8,14 +8,12 @@ Android application for Daily Routine, Academic Calendar, Syallabus, Notices and
 2. In the settings of the app, put your domain name and apply.
 ```
 
-| Home | Academic Calendar |
-| ---- | ----------------- |
-| <img src="./Screenshots/home.png" width="200px"> | <img src="./Screenshots/calendar.png" width="200px"> | 
+| Home | Academic Calendar | Menu |
+| ---- | ----------------- | ---- |
+| <img src="./Screenshots/home.png" width="200px"> | <img src="./Screenshots/calendar.png" width="200px"> | <img src="./Screenshots/menu.png" width="200px"> |
 
-| Menu | Notice |
-| ---- | ----------------- |
-| <img src="./Screenshots/menu.png" width="200px"> | <img src="./Screenshots/notice.png" width="200px"> | 
 
-| Resources | Settings |
-| ---- | ----------------- |
-| <img src="./Screenshots/resources.png" width="200px"> | <img src="./Screenshots/settings.png" width="200px"> | 
+
+| Resources | Settings | Notice |
+| --------- | -------- | ------ |
+| <img src="./Screenshots/resources.png" width="200px"> | <img src="./Screenshots/settings.png" width="200px"> |  <img src="./Screenshots/notice.png" width="200px"> | 
