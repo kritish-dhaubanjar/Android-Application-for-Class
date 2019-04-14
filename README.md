@@ -1,6 +1,6 @@
 # Charon : Android Application for Class
 
-Android application for Daily Routine, Academic Calendar, Syallabus, Notices and Resources.
+> Android application for Daily Routine, Academic Calendar, Syallabus, Notices and Resources.
 
 ```
 1. Put the 'api' folder in public folder of your webserver. eg http://www.yourdomain.com/api/
